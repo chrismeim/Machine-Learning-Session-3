@@ -1,4 +1,4 @@
-# Machine-Learning-Session-1
+# Machine-Learning-Session-3
 Excercise on Imbalanced datasets on a credit fraud case
 
 ### Summary
